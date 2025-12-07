@@ -1,5 +1,7 @@
-
-<title>Kian's webpage</title>
+---
+permalink: /
+title: "Kian's webpage"
+---
 
 ## About
 
