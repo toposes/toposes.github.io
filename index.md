@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kian Cho"
+title: "A wild goose appeared!"
 ---
 
 ## About
