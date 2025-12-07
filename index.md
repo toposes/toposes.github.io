@@ -5,10 +5,7 @@ title: "A wild goose appeared!"
 
 ## About
 
-I am an n<sup>th</sup> year graduate student studying mathematics (for some big n.)\
-I like the interplay between category theory and logic. \
-My favorite adjunction is ∅ ⊣ *.\
-I am also quite fond of DanceDanceRevolution.
+I am an n<sup>th</sup> year graduate student studying mathematics (for some big n.) I like the interplay between category theory and logic. My favorite adjunction is ∅ ⊣ *. Outside of math, I am quite fond of rhythm games such as DanceDanceRevolution and Pop'n Music.
 
 <hr>
 
@@ -26,6 +23,18 @@ I am also quite fond of DanceDanceRevolution.
 
 <hr>
 
+## Teaching
+
+At Carnegie Mellon University, I have served as a teaching assistant for many iterations of
+- differential and integral calculus
+- multivariable calculus
+- matrix algebra
+- concepts of mathemtaics
+
+In spring 2026, I will co-teach a course in categorical logic (joint effort with Owen Milner and Corinthia Aberle.)
+
+<hr>
+
 ### Contact
 
 Kian Cho\
@@ -33,7 +42,7 @@ Department of Mathematical Sciences\
 Carnegie Mellon University\
 Pittsburgh, PA 15213
 
-You can find me in Wean 6209.
-
 kianc (at) andrew.cmu.edu\
 kianc.math (at) gmail 
+
+You can find me in Wean 6209.
