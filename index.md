@@ -1,6 +1,5 @@
-<head>
-  <title>Kian's webpage</title>
-</head>
+
+<title>Kian's webpage</title>
 
 ## About
 
@@ -32,7 +31,7 @@ Department of Mathematical Sciences\
 Carnegie Mellon University\
 Pittsburgh, PA 15213
 
-You can find me in Wean 6209
+You can find me in Wean 6209.
 
 kianc (at) andrew.cmu.edu\
 kianc.math (at) gmail 
