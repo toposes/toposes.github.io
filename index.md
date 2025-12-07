@@ -5,14 +5,14 @@ title: "A wild goose appeared!"
 
 ## About
 
-I am an n<sup>th</sup> year graduate student studying mathematics. I like the interplay between category theory and logic. My favorite adjunction is ∅ ⊣ ✳. Outside of math, I am quite fond of rhythm games such as DanceDanceRevolution and Pop'n Music.
+I am a graduate student studying math. I like the interplay between category theory and logic. My favorite adjunction is ∅ ⊣ ✳. Outside of math, I am quite fond of rhythm games such as DanceDanceRevolution and Pop'n Music.
 
 <hr>
 
 ## Education
 
-- Carnegie Mellon University (2019-current)
-- Rutgers University (2015-2019)
+- PhD in mathematics, Carnegie Mellon University (2019-current)
+- BS in mathematics, Rutgers University (2015-2019)
 
 <hr>
 
