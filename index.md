@@ -1,7 +1,3 @@
----
-permalink: /
-title: "A wild goose appeared!"
----
 
 <head>
 <link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96" />
@@ -10,6 +6,12 @@ title: "A wild goose appeared!"
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
 <link rel="manifest" href="/site.webmanifest" />
 </head>
+
+---
+permalink: /
+title: "A wild goose appeared!"
+---
+
 
 ## About
 
