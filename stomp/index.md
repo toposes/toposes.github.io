@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /ddr/
+permalink: /stomp/
 title: Show me your moves!
 ---
 
