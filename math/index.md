@@ -4,4 +4,4 @@ permalink: /math/
 title: Mathematics
 ---
 
-This page is intentionally left blank
+this page is intentionally left blank
