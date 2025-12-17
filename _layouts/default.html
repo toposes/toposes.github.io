@@ -9,6 +9,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     
     <meta property="og:url" content="http://kianc.site">
     <meta property="og:type" content="website">
@@ -30,16 +32,13 @@
         <h1 style="text-align: center"><a href="{{ "/" }}">{{ site.title }}</a></h1>
         <img src="{{site.logo | relative_url}}" alt="Logo" />
         <p>{{ site.description }}</p>
-        <div itemscope itemtype="http://schema.org/Person">
-          <div class="author__urls-wrapper">
-          <ul class="author__urls social-icons">
-            <li>{{ author.location }}</li>
-            <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}">LinkedIn</a></li>
-            <li><a href="https://github.com/{{ author.github }}">Github</a></li>
+        
+          <ul class="list-style-type: none">
+            <li><i class="fa-solid fa-location-dot"></i>{{ author.location }}</li>
+            <li><i class="fa-brands fa-github"></i><a href="https://github.com/{{ author.github }}">Github</a></li>
+            <li><i class="fa-brands fa-linkedin"></i><a href="https://www.linkedin.com/in/{{ author.linkedin }}">LinkedIn</a></li>
           </ul>
-        </div>
-
-</div>
+        
         <hr>
         
         <p style="font-weight: 400; padding-left: 10px; line-height: 1.8">
